@@ -16,7 +16,7 @@ const Header = () => {
       <Link href='/' className="mr-5 hover:text-gray-900">Home</Link>
       <Link href="/about" className="mr-5 hover:text-gray-900">About</Link>
       <Link href='/contact' className="mr-5 hover:text-gray-900">Contact</Link>
-      <Link href='/upcomming.js' className="mr-5 hover:text-gray-900">Up Comming</Link>
+      <Link href='/upcomming' className="mr-5 hover:text-gray-900">Up Comming</Link>
     </nav>
     <button className="inline-flex items-center bg-gray-100 border-0 py-1 px-3 focus:outline-none hover:bg-gray-200 rounded text-base mt-4 md:mt-0">LogIn
       <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" className="w-4 h-4 ml-1" viewBox="0 0 24 24">
